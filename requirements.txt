@@ -1,0 +1,4 @@
+kwant
+matplotlib
+youtube_transcript_api
+pytube
