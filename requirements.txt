@@ -4,3 +4,4 @@ youtube_transcript_api
 pytube
 google_auth_oauthlib
 googleapiclient
+scrapy
